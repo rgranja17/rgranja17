@@ -17,7 +17,8 @@
    <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
    <img align = "center" alt= "html5" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=wh" />
-   <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
+   <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+   <img align = "center" alt= "html15" src= "https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white" />
 </div><br/>
 
 Currently studying Computer Engineering at the University of Minho. Passionate about technology and constantly exploring new tools and languages to expand my skills and knowledge.
