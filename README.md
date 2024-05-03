@@ -6,6 +6,7 @@
 [![CS](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://www.faceit.com/en/players/rmgntc)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/granjaoficial/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/granjavz/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-granja-b01981307/)
 
 ![Granja's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgranja17&show_icons=true&theme=dracula)
 
