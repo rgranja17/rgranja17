@@ -14,7 +14,6 @@
    <img align = "center" alt= "html5" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
    <img align = "center" alt= "html5" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=wh" />
    <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
    <img align = "center" alt= "html15" src= "https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white" />
 </div><br/>
